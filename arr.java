@@ -13,3 +13,4 @@ public class arr {
         System.out.println("so lan xuat hien cua " + socandem + " la " +dem);
     }
 }
+// kekekekeekeke
